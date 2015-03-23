@@ -1,0 +1,1 @@
+This is an example implementation of the AllJoyn interface for the Heatworks Model1 hot water heater.
