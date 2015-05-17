@@ -2,7 +2,7 @@ This is an example implementation of the AllJoyn interface for the Heatworks Mod
  
 This code has been tested on Linux and OS X. A Windows implementation is forthcoming.
 
-It requires you have downloaded and compiled the AllJoyn Thin Core (https://allseenalliance.org/developers/learn/core/thin-core) from https://allseenalliance.org/developers/download.
+It requires you have downloaded and compiled a recent version of the AllJoyn Thin Core (https://allseenalliance.org/developers/learn/core/thin-core) from https://allseenalliance.org/developers/download.
 Once you have built that, set the environment variable AJTCL to point at the location.
 
 To build this you should be able to invoke make:
