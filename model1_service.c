@@ -17,6 +17,7 @@
 
 #include <stdio.h>
 #include <aj_debug.h>
+ 
 #include "alljoyn.h"
 
 #include "model1.h"
